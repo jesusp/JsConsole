@@ -1,6 +1,19 @@
 body {
     padding-top: 90px;
 }
+footer{
+	position: absolute;
+	bottom:0;
+	width: 100%;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.icon{
+	width: 30px;
+
+}
+
 .inputTexto{
 	background: transparent;
 	outline:0;
